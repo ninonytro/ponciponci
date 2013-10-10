@@ -1,9 +1,9 @@
 settings = {
   scheme: 'http',
-  port: process.env.PORT || 5000,
+  port: 8080,
   host: '',
   resource: '/socket.io',
-  serviceKey: '',
+  serviceKey: 'poncivideografi',
   backend: {
     host: 'videografi.tv',
     port: 80,
