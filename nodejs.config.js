@@ -3,9 +3,9 @@ settings = {
   port: 8080,
   host: '',
   resource: '/socket.io',
-  serviceKey: 'poncivideografi',
+  serviceKey: '',
   backend: {
-    host: 'videografi.tv',
+    host: '',
     port: 80,
     scheme: 'http',
     messagePath: '/nodejs/message'
